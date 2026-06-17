@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:7B1113,100:C40000&height=220&section=header&text=VFS%20Appointment%20Angola%20System&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Advanced%20VFS%20Dashboard%20Automation%20System&descAlignY=60&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:7B1113,100:C40000&height=220&section=header&text=VFS%20Appointment%20UK%20System&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Advanced%20VFS%20Dashboard%20Automation%20System&descAlignY=60&descSize=18&animation=fadeIn" width="100%"/>
 
 <br/>
 
 <a href="https://github.com/OnlineUnknowns">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=28&pause=1200&color=FF4D4D&center=true&vCenter=true&width=950&height=70&lines=🌍+VFS+Angola+Selfi+Bypass;⚡+Real-Time+Appointment+Detection;🤖+Advanced+Visa+Automation+Framework;🛡️+Production-Grade+Architecture;🚀+Multi-Country+Appointment+Engine" alt="Typing Header" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=28&pause=1200&color=FF4D4D&center=true&vCenter=true&width=950&height=70&lines=🌍+VFS+UK+Selfi+Bypass;⚡+Real-Time+Appointment+Detection;🤖+Advanced+Visa+Automation+Framework;🛡️+Production-Grade+Architecture;🚀+Multi-Country+Appointment+Engine" alt="Typing Header" />
 </a>
 
 <br/>
@@ -23,11 +23,11 @@
 
 <br/>
 
-<img src="https://img.shields.io/github/stars/OnlineUnknowns/VFS-Angola-Selfi-Bypass?style=social" />
+<img src="https://img.shields.io/github/stars/OnlineUnknowns/VFS-UK-Selfi-Bypass?style=social" />
 &nbsp;
-<img src="https://img.shields.io/github/forks/OnlineUnknowns/VFS-Angola-Selfi-Bypass?style=social" />
+<img src="https://img.shields.io/github/forks/OnlineUnknowns/VFS-UK-Selfi-Bypass?style=social" />
 &nbsp;
-<img src="https://img.shields.io/github/watchers/OnlineUnknowns/VFS-Angola-Selfi-Bypass?style=social" />
+<img src="https://img.shields.io/github/watchers/OnlineUnknowns/VFS-UK-Selfi-Bypass?style=social" />
 
 </div>
 
@@ -37,7 +37,7 @@
 
 ```text
 ╔══════════════════════════════════════════════════════════════╗
-║          🌍 VFS ANGOLA SELFI BYPASS AUTOMATION              ║
+║          🌍 VFS UK SELFI BYPASS AUTOMATION              ║
 ║     Monitor → Detect → Queue → Book → Confirm              ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
@@ -48,7 +48,7 @@
 
 # 🧠 What Is This?
 
-**VFS Angola Selfi Bypass** is a fully asynchronous automation system engineered to streamline visa appointment booking through the **VFS platform** across multiple countries.
+**VFS UK Selfi Bypass** is a fully asynchronous automation system engineered to streamline visa appointment booking through the **VFS platform** across multiple countries.
 
 The system continuously monitors real-time appointment availability, detects live visa slots instantly, automates booking workflows, handles queue systems, and provides immediate Telegram notifications for successful reservations.
 
@@ -59,11 +59,11 @@ Without automation:    Endless refreshing → queues → missed appointments
 With this bot:         Detect → Reserve → Confirm → Done.
 ```
 
-**Keywords:** `VFS Angola bot` · `visa appointment automation` · `VFS booking system` · `Selenium automation` · `appointment monitoring bot`
+**Keywords:** `VFS UK bot` · `visa appointment automation` · `VFS booking system` · `Selenium automation` · `appointment monitoring bot`
 
 ---
 
-# 🌍 Supported Countries — VFS Angola
+# 🌍 Supported Countries — VFS UK
 
 <div align="center">
 
@@ -253,7 +253,7 @@ With this bot:         Detect → Reserve → Confirm → Done.
 # 📁 Project Structure
 
 ```text
-VFS-Angola-Selfi-Bypass/
+VFS-UK-Selfi-Bypass/
 │
 ├── Main.py
 ├── booking.py
@@ -272,10 +272,10 @@ VFS-Angola-Selfi-Bypass/
 
 ```bash
 # Clone repository
-git clone https://github.com/OnlineUnknowns/VFS-Angola-Selfi-Bypass.git
+git clone https://github.com/OnlineUnknowns/VFS-UK-Selfi-Bypass.git
 
 # Open directory
-cd VFS-Angola-Selfi-Bypass
+cd VFS-UK-Selfi-Bypass
 
 # Install dependencies
 pip install -r requirements.txt
@@ -328,6 +328,6 @@ python Main.py
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=13&pause=4000&color=555555&center=true&vCenter=true&width=700&height=28&lines=VFS+Angola+Selfi+Bypass+•+Engineered+for+Scale+•+©+OnlineUnknowns" alt="Footer text" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=13&pause=4000&color=555555&center=true&vCenter=true&width=700&height=28&lines=VFS+UK+Selfi+Bypass+•+Engineered+for+Scale+•+©+OnlineUnknowns" alt="Footer text" />
 
 </div>
