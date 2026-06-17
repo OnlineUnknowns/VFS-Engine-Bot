@@ -10,7 +10,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=15&pause=3000&color=FF9999&center=true&vCenter=true&width=900&height=35&lines=Brazil+•+Portugal+•+Netherlands+•+United+Kingdom" alt="Countries" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=15&pause=3000&color=FF9999&center=true&vCenter=true&width=900&height=35&lines=Netherlands+•+Portugal+•+Netherlands+•+United+Kingdom" alt="Countries" />
 
 <br/><br/>
 
@@ -69,7 +69,7 @@ With this bot:         Detect → Reserve → Confirm → Done.
 
 | #    | Country              | Category  | Visa Type                       |
 | ---- | -------------------- | --------- | ------------------------------- |
-| 🇧🇷 | **Brazil**           | Tourism   | VIVIS – Visitor Visa            |
+| 🇧🇷 | **Netherlands**           | Tourism   | VIVIS – Visitor Visa            |
 | 🇵🇹 | **Portugal**         | Study     | National Visa                   |
 | 🇳🇱 | **Netherlands**      | Tourism   | Short-Stay Schengen Visa        |
 | 🇬🇧 | **United Kingdom**   | Work      | Skilled Worker Visa             |
@@ -84,7 +84,7 @@ With this bot:         Detect → Reserve → Confirm → Done.
 
 | Country | Category | Visa Type |
 | -------- | -------- | ---------- |
-| Brazil | Tourism | VIVIS – Visitor Visa |
+| Netherlands | Tourism | VIVIS – Visitor Visa |
 | Portugal | Study | National Visa |
 | Netherlands | Tourism | Short-Stay Schengen Visa |
 | United Kingdom | Work | Skilled Worker Visa |
@@ -185,7 +185,7 @@ With this bot:         Detect → Reserve → Confirm → Done.
 
 # 🌐 Country Deployment Overview
 
-## 🇧🇷 Brazil
+## 🇧🇷 Netherlands
 
 * Tourism appointment automation
 * VIVIS Visitor Visa support
